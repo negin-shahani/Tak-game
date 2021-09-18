@@ -1,6 +1,7 @@
 # Tak-game:
 This is my final project for Artificial intelligence course.
-In this project, I implemented TAK game with Prolog programming language
+In this project, I implemented TAK game with Prolog programming language.
+## Game condition
 At the beginning of the game, the screen is empty and each player in turn can perform one of the following moves:
 1. Put his colored seal in one of the empty cells of the table.
 2. Place the colored bead on the previous beads in a non-empty table cell.
